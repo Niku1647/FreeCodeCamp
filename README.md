@@ -1,4 +1,4 @@
-### FreeCodeCamp
+# FreeCodeCamp
 
-# Javascript
+## Javascript
  * Regular Expression
