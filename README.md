@@ -2,3 +2,4 @@
 
 ## Javascript
  * Regular Expression
+ * Functional Programming
