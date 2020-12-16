@@ -9,12 +9,12 @@ Do not mutate the original array provided to the function.
 */
 
 function nonMutatingSplice(cities) {
-    // Only change code below this line
+    
     
     var new_cities = cities.slice(0, 3) 
     return new_cities;
   
-    // Only change code above this line
+    
   }
   var inputCities = ["Chicago", "Delhi", "Islamabad", "London", "Berlin"];
   nonMutatingSplice(inputCities);
