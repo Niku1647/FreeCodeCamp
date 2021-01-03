@@ -5,4 +5,5 @@ A criminal is represented by the capital letter C.
 
 */
 
-let reCriminals = /C+/g; // Change this line
+let reCriminals = /C+/g; 
+// Change this line
